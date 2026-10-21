@@ -1,0 +1,15 @@
+{
+  "name": "api-reaproveitai",
+  "version": "1.0.0",
+  "description": "API de receitas do Reaproveita.ai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.5"
+  }
+}
